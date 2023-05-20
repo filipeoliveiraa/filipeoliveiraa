@@ -3,8 +3,6 @@
 ### Hi there 👋
 
 https://www.filipeoliveira.pt
-
-#cybersecurity, #cloudcomputing, #quantumcomputing, #softwareengineering, and #artificialintelligence
 <!--
 **filipeoliveiraa/filipeoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
