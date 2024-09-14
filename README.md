@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/filipeoliveiraa?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/filipeoliveiraa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/filipeoliveiraa?tab=repositories&sort=stargazers">
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeoliveiraa&show_icons=true&theme=gruvbox)
+![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeoliveiraa&show_icons=true&theme=gruvbox) -->
